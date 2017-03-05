@@ -1,4 +1,6 @@
 /* file: arrays.c */
+#include <stdlib.h>
+#include "arrays.h"
 
 int add_int_array(int *a, int *b, int *c, int n) {
   int i;

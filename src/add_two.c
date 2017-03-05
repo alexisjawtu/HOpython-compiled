@@ -1,4 +1,6 @@
 /* file: add_two.c */
+#include <stdlib.h>
+#include "add_two.h"
 
 float add_float(float a, float b) {
   return a + b;
